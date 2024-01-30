@@ -5,6 +5,7 @@
 👨‍🏫 Committed to continuous learning and collaboration, aiming to exceed user expectations.</br>
 💬 Join me in creating impactful experiences and fostering growth in tech.</br>
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maaloulcyrine) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrine-maaloul-957202199) </br>
