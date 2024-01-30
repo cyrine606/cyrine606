@@ -6,7 +6,9 @@
 🔭 Constantly inspired Cloud DevOps Engineer, seeking growth and new challenges.</br>
 👨‍🏫 Committed to continuous learning and collaboration, aiming to exceed user expectations.</br>
 💬 Join me in creating impactful experiences and fostering growth in tech.</br>
-💪 This is where I write, code and solve problems: ![Header](./leetcode_logo.png) ![Header](./hackerrank.png)
+💪 This is where I write, code and solve problems:
+<img src="./leetcode_logo.png" alt="Leetcode" data-canonical-src="./leetcode_logo.png" style="max-width: 80%;">
+<img src="./hackerrank.png" alt="Hackerrank" data-canonical-src="./hackerrank.png" style="max-width: 80%;">
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
