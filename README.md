@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hi there, I am Cyrine Maaloul 👋
 
 👨‍🎓 Passionate explorer in technology, driven by crafting seamless user experiences and driving innovation. </br>
