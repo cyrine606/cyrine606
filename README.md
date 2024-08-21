@@ -19,7 +19,7 @@
 💻 DevOps tools
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![VAULT](https://img.shields.io/badge/vault-FFEC6E.svg?style=flat&logo=vault&logoColor=white&color=%23FFEC6E) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=flat&logo=sonarqube&logoColor=white&color=%234E9BCD) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white)</br>
 
-📜 Certifications </br>
+📜 Badges </br>
 <img src="./img/aws-certified-cloud-practitioner.png" alt="aws" height="80px" width="80px">
 <img src="./img/cka-certified-kubernetes-administrator.png" alt="cka" height="80px" width="80px">
 
